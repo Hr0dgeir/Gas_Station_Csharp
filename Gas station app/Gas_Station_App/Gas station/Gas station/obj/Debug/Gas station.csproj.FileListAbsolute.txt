@@ -1,0 +1,14 @@
+C:\Users\m3rt1\source\repos\Gas station\Gas station\bin\Debug\Gas station.exe.config
+C:\Users\m3rt1\source\repos\Gas station\Gas station\bin\Debug\Gas station.exe
+C:\Users\m3rt1\source\repos\Gas station\Gas station\bin\Debug\Gas station.pdb
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas station.csproj.AssemblyReference.cache
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.Form1.resources
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.Properties.Resources.resources
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas station.csproj.GenerateResource.cache
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas station.csproj.CoreCompileInputs.cache
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas station.exe
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas station.pdb
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.MainWindow.resources
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.Prices.resources
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.stocks.resources
+C:\Users\m3rt1\source\repos\Gas station\Gas station\obj\Debug\Gas_station.Sell.resources
